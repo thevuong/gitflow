@@ -5,3 +5,4 @@ Fix bug from `critical-bug`
 Parent change here.
 Child change here.
 Rebase this branch.
+This change from branch `new_release`.
