@@ -2,3 +2,5 @@ Add from branch new_feature
 Edit from branch new_feature_with_make_pull_request
 Edit from branch first_release
 Fix bug from `critical-bug`
+Parent change here.
+Child change here.
