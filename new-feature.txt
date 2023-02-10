@@ -4,3 +4,4 @@ Edit from branch first_release
 Fix bug from `critical-bug`
 Parent change here.
 Child change here.
+Rebase this branch.
